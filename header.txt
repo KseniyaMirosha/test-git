@@ -1,3 +1,4 @@
 Some feature
+text from branch B
 
 
